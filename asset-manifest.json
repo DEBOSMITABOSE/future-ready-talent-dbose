@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/future-ready-talent-dbose/static/css/main.deed3b2c.css",
+    "main.js": "/future-ready-talent-dbose/static/js/main.45d422dd.js",
+    "static/media/hero.jpg": "/future-ready-talent-dbose/static/media/hero.6761dcc15bd705187776.jpg",
+    "static/media/pp.jpeg": "/future-ready-talent-dbose/static/media/pp.a563c7c536bc6ea200a3.jpeg",
+    "static/media/Destination2.jpg": "/future-ready-talent-dbose/static/media/Destination2.5076228c8823f36eaba3.jpg",
+    "static/media/Destination5.jpg": "/future-ready-talent-dbose/static/media/Destination5.895cd2666185ada91997.jpg",
+    "static/media/Destination1.jpg": "/future-ready-talent-dbose/static/media/Destination1.757e769d6373570ae409.jpg",
+    "static/media/Destination3.jpg": "/future-ready-talent-dbose/static/media/Destination3.051a2b8661009fa93cee.jpg",
+    "static/media/Destination6.jpg": "/future-ready-talent-dbose/static/media/Destination6.0aec2e2942635ed3ff80.jpg",
+    "static/media/Destination4.jpg": "/future-ready-talent-dbose/static/media/Destination4.43dfb96b95d6ff1b0d0b.jpg",
+    "static/media/service1.png": "/future-ready-talent-dbose/static/media/service1.3e2e7a07084a637f1818.png",
+    "static/media/service2.png": "/future-ready-talent-dbose/static/media/service2.c723347e241ab7aebc51.png",
+    "static/media/service3.png": "/future-ready-talent-dbose/static/media/service3.8f6622a33a48c698cc62.png",
+    "static/media/info3.png": "/future-ready-talent-dbose/static/media/info3.b404efc53ae329486df1.png",
+    "index.html": "/future-ready-talent-dbose/index.html",
+    "main.deed3b2c.css.map": "/future-ready-talent-dbose/static/css/main.deed3b2c.css.map",
+    "main.45d422dd.js.map": "/future-ready-talent-dbose/static/js/main.45d422dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deed3b2c.css",
+    "static/js/main.45d422dd.js"
+  ]
+}
